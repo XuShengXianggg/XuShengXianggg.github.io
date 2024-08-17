@@ -1,3 +1,17 @@
+@keyframes rotate {
+  from {
+    border-width: 1px;
+    border-color: #1d87ea;
+    transform: rotate(0);
+  }
+
+  to {
+    border-width: 10px;
+    border-color: #b6e421;
+    transform: rotate(1turn);
+  }
+}
+
 .header {
   position: fixed;
   top: 0;
@@ -18,6 +32,48 @@
   color: #e42121;
 }
 
+.school-link {
+  display: block;
+  color: #1d87ea;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin-top: -0.5em;
+}
+
+.school-link:hover {
+  color: #e42121;
+}
+
+.inline-link {
+  display: inline-block;
+  color: #1d87ea;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.inline-link:hover {
+  color: #e42121;
+}
+
+.sidebar-link {
+  display: block;
+  color: #000000;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+
+.sidebar-link:hover {
+  color: #e42121;
+}
+
+.header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+
 .header li {
   display: inline-block;
   list-style: none;
@@ -36,14 +92,21 @@
   top: 5em;
   left: 0;
   width: 30%;
-  height: 70%;
+  height: 75%;
   padding: 2em 1em 2em 10em;
   box-sizing: border-box;
 }
 
 #location {
-  color: #797878;
+  font-style: normal;
+  color: #656464;
   font-size: 1.2em;
+}
+
+.subtitle {
+  color: #797878;
+  font-size: 0.95em;
+  padding-left: 1.1em;
 }
 
 .avatar {
@@ -57,15 +120,23 @@
   border: #b9b8b8 solid 1px;
 }
 
+.avatar:hover {
+  animation-name: rotate;
+  animation-duration: 0.4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
 .sidebar i {
   font-size: 1em;
   display: block;
   margin: 1em 0;
+  font-style: normal;
 }
 
 .content {
   display: block;
-  width: 50em;
+  width: 52em;
   margin-top: 5em;
   margin-left: 30%;
   padding: 2em;
@@ -84,11 +155,14 @@
 
 .footer {
   display: block;
+  overflow: hidden;
   width: 100%;
-  height: 10em;
+  height: 7em;
   background-color: #c4c2c2;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-  padding: 3em 10em;
+  padding: 2em 10em;
   color: #6b6969;
-  z-index: 999;
+  font-size: small;
+  line-height: 0.8;
+  z-index: 1;
 }

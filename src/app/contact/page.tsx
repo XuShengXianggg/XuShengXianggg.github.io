@@ -8,8 +8,8 @@ export const metadata: Metadata = {
 export default function ContactPage() {
   return (
     <div className="content">
-        <h1>blog</h1>
-        <Link href="https://www.cnblogs.com/xushengxiang" className='link-style'>This is a link to my blog.</Link>
+        <h1>CV</h1>
+        <Link href="/" className='link-style'>Download CV (updated on August 2024)</Link>
     </div>
   );
 }
