@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from 'next/link';
 
 export default function Home() {
@@ -24,7 +23,7 @@ export default function Home() {
         </ul>
 
         <h2>Awards</h2>
-        <div className="underline"></div> 
+        <div className="underline"></div>
         <ul>
           <li>2024-06. 2024年度河海大学”海韵风华百佳大学生“荣誉称号</li>
           <li>2024-04. 河海大学2023年度”优秀共青团干部“荣誉称号</li>

@@ -2,7 +2,7 @@
 const nextConfig = {
     output: "export",
     reactStrictMode: true,
-    basePath: "/react-test",
+    basePath: "/out",
 };
 
 export default nextConfig;
