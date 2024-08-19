@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    // assetPrefix: "/XuShengXianggg.github.io",
-    // basePath: "/XuShengXianggg.github.io",
+    assetPrefix: "/xushengxianggg.github.io",
+    basePath: "/xushengxianggg.github.io",
 };
 
 export default nextConfig;
