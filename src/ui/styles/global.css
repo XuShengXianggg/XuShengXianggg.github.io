@@ -67,13 +67,6 @@
   color: #e42121;
 }
 
-.header ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: inline-block;
-}
-
 .header li {
   display: inline-block;
   list-style: none;
@@ -136,7 +129,7 @@
 
 .content {
   display: block;
-  width: 52em;
+  width: 55em;
   margin-top: 5em;
   margin-left: 30%;
   padding: 2em;

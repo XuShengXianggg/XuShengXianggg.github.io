@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 export default function Home() {
+
   return (
     <div>
       <div className="content">
@@ -19,7 +20,7 @@ export default function Home() {
         <h2>Recent News</h2>
         <div className="underline"></div> 
         <ul>
-          <li>NULL</li>
+          <li>Sep 2024. I have one paper accepted by 2024 Chinese Conference on Biometirc Recognition (CCBR).</li>
         </ul>
 
         <h2>Awards</h2>
@@ -35,15 +36,12 @@ export default function Home() {
           <li>2023-10. 2023年中国大学生程序设计竞赛国赛秦皇岛站铜奖</li>
           <li>2023-10. 第48届国际大学生程序设计竞赛亚洲区域赛西安站银奖</li>
           <li>2023-08. 2023年江苏省大学生程序设计竞赛银奖</li>
-          <li>2023-04. 2023年美国大学生数学建模竞赛H奖（二等奖）</li>
-          <li>2023-04. 第十四届蓝桥杯全国软件和信息技术专业人才大赛江苏赛区C/C++程序设计大学A组二等奖</li>
           <li>2022-11. 2021年度河海大学”优秀学生干部“荣誉称号</li>
           <li>2022-10. 2022年度河海大学大学生暑期”三下乡“社会实践活动先进个人</li>
           <li>2022-05. 2021年度”如东县优秀共青团员“荣誉称号</li>
           <li>2022-05. 河海大学2021年度”优秀共青团员“荣誉称号</li>
           <li>2022-04. 2022年度教育部—华为”智能基座“未来之星荣誉称号</li>
           <li>2022-04. 2021年度河海大学信息学部”优秀志愿者“荣誉称号</li>
-          <li>2022-04. 2022年美国大学生数学建模竞赛H奖（二等奖）</li>
         </ul>
 
         <h2>Technical Skills</h2>
