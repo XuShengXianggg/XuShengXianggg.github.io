@@ -1,0 +1,90 @@
+.content {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.section {
+    margin-bottom: 3rem;
+    scroll-margin-top: var(--nav-height);
+}
+
+.section h2 {
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #eee;
+}
+
+.section h3 {
+    margin: 1.5rem 0 1rem;
+    color: #333;
+}
+
+.newsList {
+    list-style: none;
+}
+
+.newsList li {
+    margin-bottom: 1rem;
+}
+
+.inside_link {
+    color: black;
+    text-decoration: none;
+}
+
+.inside_link:hover {
+    color: orange;
+}
+
+.publication {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.publication h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.honorsList {
+    list-style-type: disc;
+}
+
+.honorsList li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.honorsList li::before {
+    content: "•";
+    margin-right: 0.5em;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.insideLink {
+    white-space: nowrap;
+}
+
+.honorText {
+    flex-grow: 1;
+    /* 确保文本有足够的空间 */
+}
+
+.educationList li {
+    margin: 0 0 0.5rem 37px;
+}
+
+@media (max-width: 768px) {
+    .section {
+        margin-bottom: 2rem;
+    }
+
+    .publication {
+        padding: 0.75rem;
+    }
+}

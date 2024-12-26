@@ -1,61 +1,97 @@
-import Link from 'next/link';
+import styles from './page.module.css'
 
 export default function Home() {
+    return (
+        <div className={styles.content}>
+            <section id="home" className={styles.section}>
+                <p>
+                    I am a senior undergraduate student majoring in Software Engineering at the <a href="https://cies.hhu.edu.cn/" target="_blank">College of Computer and Software Engineering</a>, Hohai University. Currently, I am conducting research training under the guidance of Professor <a href="https://multimodality.group/author/刘凡/" target="_blank">Fan Liu (刘凡)</a> in the <a href="https://multimodality.group/" target="_blank">AIM Group</a>. I have been admitted to the <a href="https://palm.seu.edu.cn/" target="_blank">PALM Lab</a> at the <a href="https://cse.seu.edu.cn/" target="_blank">College of Computer Science and Engineering</a>, Southeast University, for my master&apos;s degree, where I will carry out research under the supervision of Professor <a href="https://palm.seu.edu.cn/zhangml/" target="_blank">Minling Zhang (张敏灵)</a> and Professor <a href="https://sdiaa.github.io/" target="_blank">Shimin Di (邸世民)</a>.
+                </p>
+            </section>
 
-  return (
-    <div>
-      <div className="content">
-        <h1>About Me</h1>
-        <p>Shengxiang Xu（徐圣翔）is a senior undergraduate student 
-          majoring in software engineering at the School of Computer and Software of Hohai University 
-          under the supervision of <Link href="https://multimodality.group/" className="inline-link">Prof. Fan Liu</Link>.</p>
+            <section id="news" className={styles.section}>
+                <h2>News</h2>
+                <ul className={styles.newsList}>
+                    <li>
+                        <strong>2024.12:</strong> One paper is accepted by ICASSP 2025
+                    </li>
+                    <li>
+                        <strong>2024 09:</strong> One paper is accepted by CCBR 2024
+                    </li>
+                </ul>
+            </section>
 
+            <section id="publications" className={styles.section}>
+                <h2>Publications</h2>
+                <h3>Computer Vision</h3>
+                <div className={styles.publication}>
+                    <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://arxiv.org/abs/2412.12603">[paper]</a></h4>
+                    <p>Guanwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jun Zhou</p>
+                </div>
+                <div className={styles.publication}>
+                    <h4>UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection <a className={styles.inside_link} href="https://arxiv.org/abs/2406.06230">[paper]</a></h4>
+                    <p>Fan Liu, Liang Yao, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Chuanyi Zhang, Xinlei Zhang, Ting Wu</p>
+                </div>
+            </section>
 
-        <h2>Educations</h2>
-        <div className="underline"></div>  
-        <ul>
-          <li>Sep. 2021 - Jun. 2025 Bachelor of Software Engineering, Hohai University.</li>
-        </ul>
+            <section id="honors" className={styles.section}>
+                <h2>Honors and Awards</h2>
+                <ul className={styles.honorsList} style={{ marginLeft: "20px" }}>
+                    <li>
+                        <span className={styles.honorText}>2024.06 Top 100 Outstanding Students of Hohai University</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_fbe047dbc3-haiyun.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2024.04 Finalist Award, Mathematical Contest in Modeling(MCM/ICM)</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_c0f895e6c3-mcm.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2024.01 Bronze Medal, ICPC Asia-East Continent Final Contest(EC-Final)</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_6bc67861c3-ec.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2023.12 First Prize, Global Campus AI Algorithm Elite Competition National Finals</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_17c69130c3-sfjy.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2023.12 Silver Medal, ICPC Asia Regional Contest Jinan Site</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_c9191a45c3-jinan.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2023.10 Bronze Medal, CCPC Qinhuangdao Site</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_a2f34024c3-qhd.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2023.10 Silver Medal, ICPC Asia Regional Contest Xi&apos;an Site</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_fe0a9950c3-xian.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2023.08 Silver Medal, Jiangsu Collegiate Programming Contest</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_bca5ee82c3-JSCPC.png" target="_blank">[Certificate]</a>
+                    </li>
+                    <li>
+                        <span className={styles.honorText}>2022.04 Huawei Intelligent Base Scholarship</span>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_7dd448f8c3-Huawei.png" target="_blank">[Certificate]</a>
+                    </li>
+                </ul>
+            </section>
 
-        <h2>Recent News</h2>
-        <div className="underline"></div> 
-        <ul>
-          <li>Sep 2024. I have one paper accepted by 2024 Chinese Conference on Biometirc Recognition (CCBR).</li>
-        </ul>
+            <section id="education" className={styles.section}>
+                <h2>Education</h2>
+                <ul className={styles.educationList}>
+                    <li>2025.09 - 2028.06, Master, Southeast University, Nanjing.</li>
+                    <li>2021.09 - 2025.06, Bachelor, Hohai Univeristy, Nanjing.</li>
+                </ul>
+            </section>
 
-        <h2>Awards</h2>
-        <div className="underline"></div>
-        <ul>
-          <li>2024-06. 2024年度河海大学”海韵风华百佳大学生“荣誉称号</li>
-          <li>2024-04. 河海大学2023年度”优秀共青团干部“荣誉称号</li>
-          <li>2024-04. 2024年美国大学生数学建模竞赛F奖（特等奖提名）</li>
-          <li>2024-01. 第48届国际大学生程序设计竞赛亚洲区决赛铜奖</li>
-          <li>2023-12. 2023年第五届全球校园人工智能算法精英大赛全国总决赛一等奖</li>
-          <li>2023-12. 第48届国际大学生程序设计竞赛亚洲区域赛济南站银奖</li>
-          <li>2023-11. 2023年第十一届全国大学生数字媒体科技作品及创意竞赛江苏省三等奖</li>
-          <li>2023-10. 2023年中国大学生程序设计竞赛国赛秦皇岛站铜奖</li>
-          <li>2023-10. 第48届国际大学生程序设计竞赛亚洲区域赛西安站银奖</li>
-          <li>2023-08. 2023年江苏省大学生程序设计竞赛银奖</li>
-          <li>2022-11. 2021年度河海大学”优秀学生干部“荣誉称号</li>
-          <li>2022-10. 2022年度河海大学大学生暑期”三下乡“社会实践活动先进个人</li>
-          <li>2022-05. 2021年度”如东县优秀共青团员“荣誉称号</li>
-          <li>2022-05. 河海大学2021年度”优秀共青团员“荣誉称号</li>
-          <li>2022-04. 2022年度教育部—华为”智能基座“未来之星荣誉称号</li>
-          <li>2022-04. 2021年度河海大学信息学部”优秀志愿者“荣誉称号</li>
-        </ul>
+            {/* <section id="talks" className={styles.section}>
+                <h2>Invited Talks</h2>
+            </section>
 
-        <h2>Technical Skills</h2>
-        <div className="underline"></div> 
-        <ul></ul>
-
-        <h2>Organizational Experience</h2>
-        <div className="underline"></div> 
-      </div>
-
-      <div className="footer">
-        <p>Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.</p>
-        <p>Hosted on GitHub Pages &mdash; Theme by <Link href="https://github.com/orderedlist">orderedlist</Link></p>
-      </div>
-    </div>
-  );
+            <section id="internships" className={styles.section}>
+                <h2>Internships</h2>
+            </section> */}
+        </div>
+    )
 }
+
