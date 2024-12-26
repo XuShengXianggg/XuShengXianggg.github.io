@@ -16,7 +16,7 @@ export default function Home() {
                         <strong>2024.12:</strong> One paper is accepted by ICASSP 2025
                     </li>
                     <li>
-                        <strong>2024 09:</strong> One paper is accepted by CCBR 2024
+                        <strong>2024.09:</strong> One paper is accepted by CCBR 2024
                     </li>
                 </ul>
             </section>
@@ -47,7 +47,7 @@ export default function Home() {
                     </li>
                     <li>
                         <span className={styles.honorText}>2024.01 Bronze Medal, ICPC Asia-East Continent Final Contest(EC-Final)</span>
-                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_6bc67861c3-ec.png" target="_blank">[Certificate]</a>
+                        <a className={styles.insideLink} href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_71b95cf3c3-ec.png" target="_blank">[Certificate]</a>
                     </li>
                     <li>
                         <span className={styles.honorText}>2023.12 First Prize, Global Campus AI Algorithm Elite Competition National Finals</span>
