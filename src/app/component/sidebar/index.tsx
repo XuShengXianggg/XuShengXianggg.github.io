@@ -11,7 +11,7 @@ interface EmailContextType {
   setDisplay: Dispatch<SetStateAction<string>>;
 }
 //Dispatch<SetStateAction<string>>
-//React 的useState返回的setter函数的精确类型
+//React 的 useState 返回的 setter 函数的精确类型
 
 export const EmailThemeContext = createContext<EmailContextType | undefined>(undefined);
 // 在使用context之前，需要先检查它是否已经被提供

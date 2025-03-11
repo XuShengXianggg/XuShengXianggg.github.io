@@ -25,8 +25,8 @@ export default function Home() {
         <h2>Publications</h2>
         <h3>Computer Vision</h3>
         <div className={styles.publication}>
-          <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://arxiv.org/abs/2412.12603">[paper]</a></h4>
-          <p>Guanwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jun Zhou</p>
+          <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://ieeexplore.ieee.org/document/10890085">[paper]</a></h4>
+          <p>Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jun Zhou</p>
           <p>IEEE International Conference on Acoustics, Speech, and Signal Processing (<span style={{ fontWeight: "bold" }}>ICASSP 2025</span>)</p>
         </div>
         <div className={styles.publication}>
