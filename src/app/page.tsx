@@ -35,7 +35,7 @@ export default function Home() {
           <p>Preprint</p>
         </div>
 
-        <h3>Large Language Model</h3>
+        <h3>AI for Science</h3>
         <div className={styles.publication}>
           <h4>Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis <a className={styles.inside_link} href="https://link.springer.com/chapter/10.1007/978-981-96-1071-6_25">[paper]</a></h4>
           <p><span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Liang Yao, Chenyu Huang, Guoxin Jiang,  Fan Liu</p>
