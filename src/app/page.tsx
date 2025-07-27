@@ -34,6 +34,11 @@ export default function Home() {
           <p>Fan Liu, Liang Yao, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Chuanyi Zhang, Xinlei Zhang, Ting Wu</p>
           <p>Preprint</p>
         </div>
+        <div className={styles.publication}>
+          <h4>Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification <a className={styles.inside_link} href="https://link.springer.com/article/10.1007/s10044-025-01520-y">[paper]</a></h4>
+          <p>Wei Xu, Xiaocong Zhou, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Fan Liu, Chuanyi Zhang, Feifan Li, Wenwen Cai, Jun Zhou</p>
+          <p>Pattern Analysis and Applications (<span style={{ fontWeight: "bold" }}>PAA</span>)</p>
+        </div>
 
         <h3>AI for Science</h3>
         <div className={styles.publication}>
