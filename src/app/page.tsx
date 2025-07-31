@@ -13,10 +13,13 @@ export default function Home() {
         <h2>News</h2>
         <ul className={styles.newsList}>
           <li>
-            <strong>2024.12:</strong> One paper is accepted by ICASSP 2025
+            <strong>2025.07:</strong> My thesis was awarded First Prize by Undergraduate Thesis Encouragement Program of JSIACS
           </li>
           <li>
-            <strong>2024.09:</strong> One paper is accepted by CCBR 2024
+            <strong>2025.07:</strong> One paper is accepted by PAA
+          </li>
+          <li>
+            <strong>2024.12:</strong> One paper is accepted by ICASSP 2025
           </li>
         </ul>
       </section>
@@ -51,6 +54,14 @@ export default function Home() {
       <section id="honors" className={styles.section}>
         <h2>Honors and Awards</h2>
         <ul className={styles.honorsList} style={{ marginLeft: "20px" }}>
+          <li>
+            <span className={styles.honorText}>2025.07 First Prize, Undergraduate Thesis Encouragement Program of JSIACS</span>
+            <a href="https://cdn.acwing.com/media/article/image/2025/08/01/543035_92636a2c6e-JSIACS.png" target="_blank">[Certificate]</a>
+          </li>
+          <li>
+            <span className={styles.honorText}>2025.06 Outstanding Undergraduate Thesis of Hohai University</span>
+            <a href="https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png" target="_blank">[Certificate]</a>
+          </li>
           <li>
             <span className={styles.honorText}>2024.06 Top 100 Outstanding Students of Hohai University</span>
             <a href="https://cdn.acwing.com/media/article/image/2024/12/26/181746_fbe047dbc3-haiyun.png" target="_blank">[Certificate]</a>
