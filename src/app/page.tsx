@@ -10,8 +10,11 @@ export default function Home() {
       </section>
 
       <section id="news" className={styles.section}>
-        <h2>News</h2>
+        <h2>🔥 News</h2>
         <ul className={styles.newsList}>
+          <li>
+            <strong>2025.08:</strong> One paper is accepted by ACM MM 2025 Dataset Track
+          </li>
           <li>
             <strong>2025.07:</strong> My thesis was awarded First Prize by Undergraduate Thesis Encouragement Program of JSIACS
           </li>
@@ -25,7 +28,7 @@ export default function Home() {
       </section>
 
       <section id="publications" className={styles.section}>
-        <h2>Publications</h2>
+        <h2>📕 Publications</h2>
         <h3>Computer Vision</h3>
         <div className={styles.publication}>
           <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://ieeexplore.ieee.org/document/10890085">[paper]</a></h4>
@@ -33,9 +36,9 @@ export default function Home() {
           <p>IEEE International Conference on Acoustics, Speech, and Signal Processing (<span style={{ fontWeight: "bold" }}>ICASSP 2025</span>)</p>
         </div>
         <div className={styles.publication}>
-          <h4>UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection <a className={styles.inside_link} href="https://arxiv.org/abs/2406.06230">[paper]</a></h4>
-          <p>Fan Liu, Liang Yao, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Chuanyi Zhang, Xinlei Zhang, Ting Wu</p>
-          <p>Preprint</p>
+          <h4>UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks <a className={styles.inside_link} href="https://arxiv.org/abs/2406.06230">[paper]</a></h4>
+          <p>Liang Yao, Fan Liu, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Chuanyi Zhang, Xing Ma, Jianyu Jiang, Zequan Wang, Shimin Di, Jun Zhou</p>
+          <p>33rd ACM International Conference on Multimedia (<span style={{ fontWeight: "bold" }}>ACM MM 2025 Dataset Track</span>)</p>
         </div>
         <div className={styles.publication}>
           <h4>Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification <a className={styles.inside_link} href="https://link.springer.com/article/10.1007/s10044-025-01520-y">[paper]</a></h4>
@@ -52,11 +55,11 @@ export default function Home() {
       </section>
 
       <section id="honors" className={styles.section}>
-        <h2>Honors and Awards</h2>
+        <h2>🥇 Honors and Awards</h2>
         <ul className={styles.honorsList} style={{ marginLeft: "20px" }}>
           <li>
             <span className={styles.honorText}>2025.07 First Prize, Undergraduate Thesis Encouragement Program of JSIACS</span>
-            <a href="https://cdn.acwing.com/media/article/image/2025/08/01/543035_92636a2c6e-JSIACS.png" target="_blank">[Certificate]</a>
+            <a href="https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png" target="_blank">[Certificate]</a>
           </li>
           <li>
             <span className={styles.honorText}>2025.06 Outstanding Undergraduate Thesis of Hohai University</span>
@@ -102,7 +105,7 @@ export default function Home() {
       </section>
 
       <section id="education" className={styles.section}>
-        <h2>Education</h2>
+        <h2>💡 Education</h2>
         <ul className={styles.educationList}>
           <li>2025.09 - 2028.06, Master, Southeast University, Nanjing.</li>
           <li>2021.09 - 2025.06, Bachelor, Hohai Univeristy, Nanjing.</li>

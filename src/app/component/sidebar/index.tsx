@@ -42,9 +42,9 @@ export default function Sidebar() {
         </div>
 
         <div className={styles.bio}>
-          <p>Undergraduate student</p>
+          <p>Postgraduate student</p>
         </div>
-        <a className={styles.school} href="https://www.hhu.edu.cn/">Hohai University (HHU)</a>
+        <a className={styles.school} href="https://www.seu.edu.cn/">Southeast University</a>
 
         <div className={styles.location}>
           <span>📍 Nanjing Jiangsu</span>
