@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.content}>
       <section id="home" className={styles.section}>
         <p>
-          I received my Bachelor&apos;s degree in Software Engineering from the 
+          I received my Bachelor&apos;s degree in Software Engineering from the&nbsp;
           <a href="https://cies.hhu.edu.cn/" target="_blank">College of Computer Science and Software Engineering</a>,
           Hohai University, where I conducted research training under the guidance of
           Professor <a href="https://multimodality.group/author/%E5%88%98%E5%87%A1/" target="_blank">Fan Liu (刘凡) </a>
@@ -43,12 +43,18 @@ export default function Home() {
         <h2>📕 Publications</h2>
         <h3>LLM Agent</h3>
         <div className={styles.publication}>
-          <h4>RobustFlow: Towards Robust Agentic Workflow Generation  <a className={styles.inside_link} href="https://arxiv.org/abs/2509.21834">[paper]</a></h4>
+          <h4>RobustFlow: Towards Robust Agentic Workflow Generation  <a className={styles.inside_link} href="https://arxiv.org/abs/2509.21834">[paper]</a>
+            &nbsp;<a className={styles.inside_link} href="https://github.com/DEFENSE-SEU/RobustFlow/">[code]</a></h4>
           <p><span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang</p>
           <p>Arxiv Preprint</p>
         </div>
 
         <h3>Computer Vision</h3>
+        <div className={styles.publication}>
+          <h4>RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow <a className={styles.inside_link} href="https://arxiv.org/abs/2507.19280">[paper]</a></h4>
+          <p>Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Shimin Di, Pai Peng</p>
+          <p>Arxiv Preprint</p>
+        </div>
         <div className={styles.publication}>
           <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://ieeexplore.ieee.org/document/10890085">[paper]</a></h4>
           <p>Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jun Zhou</p>
