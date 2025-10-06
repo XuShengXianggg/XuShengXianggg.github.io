@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import styles from './sidebar.module.css'
 import { Mail, Linkedin, Github, BookOpen, GraduationCap, FileText } from 'lucide-react'
-import { createContext, Dispatch, SetStateAction,useState } from 'react'
+import { createContext, Dispatch, SetStateAction, useState } from 'react'
 import EmailDisplay from '@/app/component/emailDisplay/EmailDisplay'
 
 interface EmailContextType {
@@ -25,7 +25,7 @@ export default function Sidebar() {
 
   return (
     <>
-      <EmailThemeContext.Provider value={{display, setDisplay}}>
+      <EmailThemeContext.Provider value={{ display, setDisplay }}>
         <EmailDisplay />
       </EmailThemeContext.Provider>
       <aside className={styles.sidebar}>

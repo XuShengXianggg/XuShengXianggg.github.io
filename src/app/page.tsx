@@ -5,7 +5,19 @@ export default function Home() {
     <div className={styles.content}>
       <section id="home" className={styles.section}>
         <p>
-          I am a senior undergraduate student majoring in Software Engineering at the <a href="https://cies.hhu.edu.cn/" target="_blank">College of Computer and Software Engineering</a>, Hohai University. Currently, I am conducting research training under the guidance of Professor <a href="https://multimodality.group/author/刘凡/" target="_blank">Fan Liu (刘凡)</a> in the <a href="https://multimodality.group/" target="_blank">AIM Group</a>. I have been admitted to the <a href="https://palm.seu.edu.cn/" target="_blank">PALM Lab</a> at the <a href="https://cse.seu.edu.cn/" target="_blank">College of Computer Science and Engineering</a>, Southeast University, for my master&apos;s degree, where I will carry out research under the supervision of Professor <a href="https://palm.seu.edu.cn/zhangml/" target="_blank">Minling Zhang (张敏灵)</a> and Professor <a href="https://sdiaa.github.io/" target="_blank">Shimin Di (邸世民)</a>.
+          I received my Bachelor&apos;s degree in Software Engineering from the 
+          <a href="https://cies.hhu.edu.cn/" target="_blank">College of Computer Science and Software Engineering</a>,
+          Hohai University, where I conducted research training under the guidance of
+          Professor <a href="https://multimodality.group/author/%E5%88%98%E5%87%A1/" target="_blank">Fan Liu (刘凡) </a>
+          and Ph.D. student <a href="https://1e12leon.top/" target="_blank">Liang Yao (姚亮) </a>
+          in the <a href="https://multimodality.group/" target="_blank">AIM Group</a>.
+          I am currently pursuing my Master&apos;s degree at the
+          <a href="https://palm.seu.edu.cn/" target="_blank"> PALM Lab</a>,
+          <a href="https://cse.seu.edu.cn/" target="_blank"> School of Computer Science and Engineering</a>,
+          Southeast University, under the supervision of Professor
+          <a href="https://palm.seu.edu.cn/zhangml/" target="_blank"> Min-ling Zhang (张敏灵) </a>
+          and Professor <a href="https://sdiaa.github.io/" target="_blank">Shimin Di (邸世民) </a>.
+          My current research interests include LLM Agent and Remote Sensing.
         </p>
       </section>
 
@@ -29,6 +41,13 @@ export default function Home() {
 
       <section id="publications" className={styles.section}>
         <h2>📕 Publications</h2>
+        <h3>LLM Agent</h3>
+        <div className={styles.publication}>
+          <h4>RobustFlow: Towards Robust Agentic Workflow Generation  <a className={styles.inside_link} href="https://arxiv.org/abs/2509.21834">[paper]</a></h4>
+          <p><span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang</p>
+          <p>Arxiv Preprint</p>
+        </div>
+
         <h3>Computer Vision</h3>
         <div className={styles.publication}>
           <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://ieeexplore.ieee.org/document/10890085">[paper]</a></h4>
@@ -64,6 +83,9 @@ export default function Home() {
           <li>
             <span className={styles.honorText}>2025.06 Outstanding Undergraduate Thesis of Hohai University</span>
             <a href="https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png" target="_blank">[Certificate]</a>
+          </li>
+          <li>
+            <span className={styles.honorText}>2025.06 Silver Medal, Jiangsu Collegiate Programming Contest</span>
           </li>
           <li>
             <span className={styles.honorText}>2024.06 Top 100 Outstanding Students of Hohai University</span>

@@ -1,129 +1,136 @@
 .sidebar {
-    position: sticky;
-    top: var(--nav-height);
-    width: var(--sidebar-width);
-    height: calc(100vh - var(--nav-height));
-    padding: 2rem;
-    background: #f8f9fa;
-    border-right: 1px solid #eee;
-    overflow-y: auto;
+  position: sticky;
+  top: var(--nav-height);
+  width: var(--sidebar-width);
+  height: calc(100vh - var(--nav-height));
+  padding: 2rem;
+  background: #f8f9fa;
+  border-right: 1px solid #eee;
+  overflow-y: auto;
 }
 
 .profile {
-    text-align: center;
-    margin-bottom: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 .avatar {
-    border-radius: 50%;
-    margin-bottom: 1rem;
-    transition: transform 30s ease-in-out;
-    transform: rotate(0deg);
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  transition: transform 30s ease-in-out;
+  transform: rotate(0deg);
 }
 
 .avatar:hover {
-    transform: rotate(180000deg);
+  transform: rotate(180000deg);
 }
 
 .name {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .bio {
-    margin-bottom: 1rem;
-    font-size: 0.9rem;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
 }
 
 .location {
-    margin: 1rem 0 1.5rem 0;
-    color: #666;
+  margin: 1rem 0 1.5rem 0;
+  color: #666;
+  display: flex;
+  justify-content: center;
 }
 
 .school {
-    text-decoration: none;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
 }
 
 .school:hover {
-    color: #ff9a02;
-    text-decoration: none;
+  color: #ff9a02;
+  text-decoration: none;
 }
 
 .links {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  padding-left: 17%;
+  gap: 1rem;
 }
 
 .links a {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    color: #333;
-    text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #333;
+  text-decoration: none;
 }
 
 .links a:hover {
-    color: #ff9a02;
+  color: #ff9a02;
 }
 
 @media (max-width: 1024px) {
-    .sidebar {
-        position: static;
-        width: 100%;
-        height: auto;
-        border-right: none;
-    }
+  .sidebar {
+    position: static;
+    width: 100%;
+    height: auto;
+    border-right: none;
+  }
 
-    .profile {
-        display: flex;
-        align-items: center;
-        text-align: left;
-        gap: 1rem;
-        margin-bottom: 1rem;
-        justify-content: center;
-    }
+  .profile {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+  }
 
-    .bio {
-        display: flex;
-        justify-content: center;
-    }
+  .bio {
+    display: flex;
+    justify-content: center;
+  }
 
-    .school {
-        display: flex;
-        justify-content: center;
-    }
+  .school {
+    display: flex;
+    justify-content: center;
+  }
 
-    .location {
-        display: flex;
-        justify-content: center;
-    }
+  .location {
+    display: flex;
+    justify-content: center;
+  }
 
-    .avatar {
-        width: 100px;
-        height: 100px;
-        margin-bottom: 0;
-    }
+  .avatar {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 0;
+  }
 
-    .links {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+  .links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 768px) {
-    .sidebar {
-        padding: 1rem;
-    }
+  .sidebar {
+    padding: 1rem;
+  }
 
-    .profile {
-        flex-direction: column;
-        text-align: center;
-    }
+  .profile {
+    flex-direction: column;
+    text-align: center;
+  }
 
-    .links {
-        gap: 0.75rem;
-        font-size: 0.9rem;
-    }
+  .links {
+    gap: 0.75rem;
+    font-size: 0.9rem;
+  }
 }
