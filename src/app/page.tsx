@@ -25,6 +25,12 @@ export default function Home() {
         <h2>🔥 News</h2>
         <ul className={styles.newsList}>
           <li>
+            <strong>2025.11:</strong> One paper is accepted by AAAI 2026
+          </li>
+          <li>
+            <strong>2025.11:</strong> One paper is accepted by AAAI 2026 Demo
+          </li>
+          <li>
             <strong>2025.08:</strong> One paper is accepted by ACM MM 2025 Dataset Track
           </li>
           <li>
@@ -32,9 +38,6 @@ export default function Home() {
           </li>
           <li>
             <strong>2025.07:</strong> One paper is accepted by PAA
-          </li>
-          <li>
-            <strong>2024.12:</strong> One paper is accepted by ICASSP 2025
           </li>
         </ul>
       </section>
@@ -49,11 +52,11 @@ export default function Home() {
           <p>Arxiv Preprint</p>
         </div>
 
-        <h3>Computer Vision</h3>
+        <h3>Remote Sensing</h3>
         <div className={styles.publication}>
           <h4>RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow <a className={styles.inside_link} href="https://arxiv.org/abs/2507.19280">[paper]</a></h4>
           <p>Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Shimin Di, Pai Peng</p>
-          <p>Arxiv Preprint</p>
+          <p>The 40th Annual AAAI Conference on Artificial Intelligence (<span style={{ fontWeight: "bold" }}>AAAI 2026</span>)</p>
         </div>
         <div className={styles.publication}>
           <h4>RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification <a className={styles.inside_link} href="https://ieeexplore.ieee.org/document/10890085">[paper]</a></h4>
@@ -61,9 +64,14 @@ export default function Home() {
           <p>IEEE International Conference on Acoustics, Speech, and Signal Processing (<span style={{ fontWeight: "bold" }}>ICASSP 2025</span>)</p>
         </div>
         <div className={styles.publication}>
-          <h4>UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks <a className={styles.inside_link} href="https://arxiv.org/abs/2406.06230">[paper]</a></h4>
+          <h4>UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks <a className={styles.inside_link} href="https://dl.acm.org/doi/abs/10.1145/3746027.3758220">[paper]</a></h4>
           <p>Liang Yao, Fan Liu, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Chuanyi Zhang, Xing Ma, Jianyu Jiang, Zequan Wang, Shimin Di, Jun Zhou</p>
           <p>33rd ACM International Conference on Multimedia (<span style={{ fontWeight: "bold" }}>ACM MM 2025 Dataset Track</span>)</p>
+        </div>
+        <div className={styles.publication}>
+          <h4>AirNavigation: Let UAV Navigation Tell Its Own Story</h4>
+          <p>Jianyu Jiang, Zequan Wang, Liang Yao, <span style={{ fontWeight: "bold" }}>Shengxiang Xu</span>, Fan Liu</p>
+          <p>The 40th Annual AAAI Conference on Artificial Intelligence (<span style={{ fontWeight: "bold" }}>AAAI 2026 Demo Track</span>)</p>
         </div>
         <div className={styles.publication}>
           <h4>Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification <a className={styles.inside_link} href="https://link.springer.com/article/10.1007/s10044-025-01520-y">[paper]</a></h4>
