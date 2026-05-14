@@ -33,7 +33,7 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834) \\
 **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
-[**Project**](https://github.com/DEFENSE-SEU/RobustFlow) ![Github stars](https://img.shields.io/github/stars/DEFENSE-SEU/RobustFlow.svg)
+[**[Project]**](https://github.com/DEFENSE-SEU/RobustFlow) ![Github stars](https://img.shields.io/github/stars/DEFENSE-SEU/RobustFlow.svg)
 </div>
 </div>
 
