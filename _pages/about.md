@@ -37,7 +37,6 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 </div>
 </div>
 
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/capflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +46,6 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 </div>
 </div>
 
----
 
 - `arXiv 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
@@ -67,7 +65,6 @@ Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongj
 </div>
 </div>
 
----
 
 - `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng
 
@@ -89,7 +86,6 @@ Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu
 </div>
 </div>
 
----
 
 - `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
