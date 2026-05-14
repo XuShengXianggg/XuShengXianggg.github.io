@@ -59,11 +59,19 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 
 ## Remote Sensing Vision-Language Model
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/remoteagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
+Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
+</div>
+</div>
+
+---
+
 - `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng
 
 - `arXiv 2026` [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243), Rui Min, Liang Yao, Shiyu Miao, **Shengxiang Xu**, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu
-
-- `arXiv 2026` [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765), Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
 
 - `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
 
@@ -73,7 +81,15 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 
 ## UAV-based Multi-modal Perception
 
-- `ACM MM 2025` <span style="color:red">(Oral)</span> [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 Oral</div><img src='images/uemmair.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220) \\
+Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
+</div>
+</div>
+
+---
 
 - `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
