@@ -87,7 +87,13 @@ Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu
 </div>
 
 
-- `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Demo</div><img src='images/airnavigation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356) \\
+Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
+</div>
+</div>
 
 ---
 
