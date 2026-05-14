@@ -27,15 +27,25 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 ## LLM Agents
 
-- `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/robustflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834) \\
+**Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+
+[**Project**](https://github.com/DEFENSE-SEU/RobustFlow) ![Github stars](https://img.shields.io/github/stars/DEFENSE-SEU/RobustFlow.svg)
+</div>
+</div>
+
+- `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
 - `arXiv 2026` [Learning to compose for cross-domain agentic workflow generation](https://arxiv.org/abs/2602.11114), Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
 
 - `arXiv 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
-- `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di
+- `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
 
-- `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+- `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di
 
 ---
 
@@ -51,11 +61,15 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 - `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
 
+---
+
 ## UAV-based Multi-modal Perception
 
 - `ACM MM 2025` <span style="color:red">(Oral)</span> [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
 
 - `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
+
+---
 
 ## Others
 
