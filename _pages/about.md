@@ -40,8 +40,29 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS
+- *2025.06* <a href='https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png'>Outstanding Undergraduate Thesis of Hohai University</a>
+- *2025.06* Silver Medal</a>, Jiangsu Collegiate Programming Contest
+- *2024.06* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_fbe047dbc3-haiyun.png'>Top 100 Outstanding Students of Hohai University</a>
+- *2024.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_c0f895e6c3-mcm.png'>Finalist Award</a>, Mathematical Contest in Modeling (MCM/ICM)
+- *2024.01* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_71b95cf3c3-ec.png'>Bronze Medal</a>, ICPC Asia-East Continent Final Contest (EC-Final)
+- *2023.12* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_17c69130c3-sfjy.png'>First Prize</a>, Global Campus AI Algorithm Elite Competition National Finals
+- *2023.12* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_c9191a45c3-jinan.png'>Silver Medal</a>, ICPC Asia Regional Contest Jinan Site
+- *2023.10* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_a2f34024c3-qhd.png'>Bronze Medal</a>, CCPC Qinhuangdao Site
+- *2023.10* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_fe0a9950c3-xian.png'>Silver Medal</a>, ICPC Asia Regional Contest Xi'an Site
+- *2023.08* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_bca5ee82c3-JSCPC.png'>Silver Medal</a>, Jiangsu Collegiate Programming Contest
+- *2022.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_7dd448f8c3-Huawei.png'>Huawei Intelligent Base Scholarship</a>
+
+
+
+
+
+
+
+
+
+
+
 
 # 📖 Educations
 - *2026.06-2026.08*, Visiting Student, The Hong Kong University of Science and Technology (Guangzhou).
