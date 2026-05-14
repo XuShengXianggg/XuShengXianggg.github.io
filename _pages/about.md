@@ -37,6 +37,8 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 </div>
 </div>
 
+---
+
 - `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
 - `arXiv 2026` [Learning to compose for cross-domain agentic workflow generation](https://arxiv.org/abs/2602.11114), Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
