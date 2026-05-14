@@ -37,7 +37,7 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 - `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
-=====
+---
 
 ## Remote Sensing Vision-Language Model
 
