@@ -42,7 +42,7 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 # 🎖 Honors and Awards
 - *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS
 - *2025.06* <a href='https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png'>Outstanding Undergraduate Thesis of Hohai University</a>
-- *2025.06* Silver Medal</a>, Jiangsu Collegiate Programming Contest
+- *2025.06* Silver Medal, Jiangsu Collegiate Programming Contest
 - *2024.06* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_fbe047dbc3-haiyun.png'>Top 100 Outstanding Students of Hohai University</a>
 - *2024.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_c0f895e6c3-mcm.png'>Finalist Award</a>, Mathematical Contest in Modeling (MCM/ICM)
 - *2024.01* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_71b95cf3c3-ec.png'>Bronze Medal</a>, ICPC Asia-East Continent Final Contest (EC-Final)
