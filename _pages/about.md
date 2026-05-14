@@ -39,11 +39,11 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-- `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
+- ``ACL Findings 2025`` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
 
 - `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
 
-- `ACM MM 2025` [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
+- `ACM MM 2025` <span style="color:red">(Oral)</span> [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
 
 - `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
