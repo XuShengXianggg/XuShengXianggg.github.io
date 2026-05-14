@@ -25,49 +25,42 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## LLM Agents
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-- ``ACL Findings 2025`` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
-
-- `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
-
-- `ACM MM 2025` <span style="color:red">(Oral)</span> [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
-
-- `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
-
-- `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
-
-- `arXiv 2026` [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765), Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
-
-- `CCBR 2024` [Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis](https://link.springer.com/chapter/10.1007/978-981-96-1071-6_25), **Shengxiang Xu**, Liang Yao, Chenyu Huang, Guoxin Jiang, Fan Liu
+- `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
 
 - `arXiv 2026` [Learning to compose for cross-domain agentic workflow generation](https://arxiv.org/abs/2602.11114), Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
-
-- `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
 - `arXiv 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
 - `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di
 
+- `arXiv 2025` [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834), **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+
+## Remote Sensing Vision-Language Model
+
 - `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng
 
 - `arXiv 2026` [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243), Rui Min, Liang Yao, Shiyu Miao, **Shengxiang Xu**, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu
 
+- `arXiv 2026` [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765), Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
+
+- `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
+
+- `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
+
+## UAV-based Multi-modal Perception
+
+- `ACM MM 2025` <span style="color:red">(Oral)</span> [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
+
+- `AAAI 2026 Demo` [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356), Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
+
+## Others
+
 - `PAA` [Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification](https://link.springer.com/article/10.1007/s10044-025-01520-y), Wei Xu, Xiaocong Zhou, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Feifan Li, Wenwen Cai, Jun Zhou
 
-- `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
+- `CCBR 2024` [Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis](https://link.springer.com/chapter/10.1007/978-981-96-1071-6_25), **Shengxiang Xu**, Liang Yao, Chenyu Huang, Guoxin Jiang, Fan Liu
+
 
 # 🎖 Honors and Awards
 - *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS
