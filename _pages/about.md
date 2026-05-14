@@ -130,5 +130,5 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 - *2025.09-2028.06*, Master, Southeast University, Nanjing.
 - *2021.09-2025.06*, Bachelor, Hohai University, Nanjing.
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
