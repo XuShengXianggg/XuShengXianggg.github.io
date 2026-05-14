@@ -39,6 +39,10 @@ I received my Bachelor's degree in Software Engineering from the College of Comp
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
+
+- `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
+
 # 🎖 Honors and Awards
 - *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS
 - *2025.06* <a href='https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png'>Outstanding Undergraduate Thesis of Hohai University</a>
