@@ -107,7 +107,7 @@ Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui 
 [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://dl.acm.org/doi/abs/10.1145/3746027.3758220) \\
 Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou
 
-[**[Dataset]**](https://github.com/1e12Leon/UEMM-Air) ![Github stars](https://img.shields.io/github/stars/1e12Leon/UEMM-Air)
+[**[Dataset]**](https://github.com/1e12Leon/UEMM-Air) ![Github stars](https://img.shields.io/github/stars/1e12Leon/UEMM-Air.svg)
 
 - We build a new synthetic UAV-based environmental perception dataset, UEMM-Air. It exceeds existing works by a significant margin in terms of dataset size ($120k$), number of modalities (6), and variety of tasks (4).
 
@@ -120,6 +120,8 @@ Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu
 
 [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356) \\
 Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
+
+[**[Project]**](https://github.com/1e12Leon/AirNavigation) ![Github stars](https://img.shields.io/github/stars/1e12Leon/AirNavigation.svg)
 </div>
 </div>
 
