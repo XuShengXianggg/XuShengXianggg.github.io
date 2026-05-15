@@ -141,7 +141,13 @@ pre {
 
 p > code,
 a > code,
-li > code,
+// li > code,
+li > code {
+  background: #00369f;
+  color: #fff;
+  border-color: #002a7a; /* 略深于背景，边框仍可见 */
+  box-shadow: none; /* 若不想像「代码块」可去掉阴影 */
+}
 figcaption > code,
 td > code {
   padding-top: 0.1rem;
