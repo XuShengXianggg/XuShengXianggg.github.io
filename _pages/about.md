@@ -20,8 +20,7 @@ redirect_from:
 I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE Group</a>, <a href='https://palm.seu.edu.cn/'>PALM Lab</a>, the School of Computer Science and Engineering, Southeast University, under the supervision of Professor <a href='https://palm.seu.edu.cn/zhangml/'>Min-ling Zhang (张敏灵)</a> and Professor <a href='https://sdiaa.github.io/'>Shimin Di (邸世民)</a>. My research interests primarily lie in <strong>LLM Agent</strong> and <strong>Remote Sensing</strong>.
 
 Previously, I received my Bachelor's degree in Software Engineering from the College of Computer Science and Software Engineering, Hohai University, where I conducted research training in the <a href='https://multimodality.group/'>AIM Group</a> under the guidance of Professor <a href='https://multimodality.group/author/%E5%88%98%E5%87%A1/'>Fan Liu (刘凡)</a> and Ph.D. student <a href='https://1e12leon.top/'>Liang Yao (姚亮)</a>.
-<!-- I received my Bachelor's degree in Software Engineering from the College of Computer Science and Software Engineering, Hohai University, where I conducted research training under the guidance of Professor <a href='https://multimodality.group/author/%E5%88%98%E5%87%A1/'>Fan Liu (刘凡)</a> and Ph.D. student <a href='https://1e12leon.top/'>Liang Yao (姚亮)</a> in the <a href='https://multimodality.group/'>AIM Group</a>. 
-I am currently pursuing my Master's degree at the <a href='https://sdiaa.tech/'>DEFENSE Group</a>, PALM Lab, the School of Computer Science and Engineering, Southeast University, under the supervision of Professor <a href='https://palm.seu.edu.cn/zhangml/'>Min-ling Zhang (张敏灵)</a> and Professor <a href='https://sdiaa.github.io/'>Shimin Di (邸世民)</a>. My current research interests include <strong>LLM Agent</strong> and <strong>Remote Sensing</strong>. -->
+
 
 # 📖 Educations
 - *2025.09-2028.06*, Master, Southeast University, Nanjing.
