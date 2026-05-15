@@ -19,6 +19,12 @@ redirect_from:
 
 I received my Bachelor's degree in Software Engineering from the College of Computer Science and Software Engineering, Hohai University, where I conducted research training under the guidance of Professor <a href='https://multimodality.group/author/%E5%88%98%E5%87%A1/'>Fan Liu (刘凡)</a> and Ph.D. student <a href='https://1e12leon.top/'>Liang Yao (姚亮)</a> in the <a href='https://multimodality.group/'>AIM Group</a>. I am currently pursuing my Master's degree at the <a href='https://sdiaa.tech/'>DEFENSE Group</a>, PALM Lab, the School of Computer Science and Engineering, Southeast University, under the supervision of Professor <a href='https://palm.seu.edu.cn/zhangml/'>Min-ling Zhang (张敏灵)</a> and Professor <a href='https://sdiaa.github.io/'>Shimin Di (邸世民)</a>. My current research interests include <strong>LLM Agent</strong> and <strong>Remote Sensing</strong>.
 
+# 📖 Educations
+- *2025.09-2028.06*, Master, Southeast University, Nanjing.
+- *2021.09-2025.06*, Bachelor, Hohai University, Nanjing.
+
+# 💻 Internships
+- *2026.06-2026.08*, Visiting Student, The Hong Kong University of Science and Technology (Guangzhou).
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI2026
@@ -125,11 +131,3 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 - *2023.08* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_bca5ee82c3-JSCPC.png'>Silver Medal</a>, Jiangsu Collegiate Programming Contest
 - *2022.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_7dd448f8c3-Huawei.png'>Huawei Intelligent Base Scholarship</a>
 
-
-# 📖 Educations
-- *2026.06-2026.08*, Visiting Student, The Hong Kong University of Science and Technology (Guangzhou).
-- *2025.09-2028.06*, Master, Southeast University, Nanjing.
-- *2021.09-2025.06*, Bachelor, Hohai University, Nanjing.
-
-<!-- # 💻 Internships -->
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
