@@ -131,3 +131,9 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 - *2023.08* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_bca5ee82c3-JSCPC.png'>Silver Medal</a>, Jiangsu Collegiate Programming Contest
 - *2022.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_7dd448f8c3-Huawei.png'>Huawei Intelligent Base Scholarship</a>
 
+# 💬 Academic Service
+
+Reviewer:
+
+- ACM International Conference on Multimedia (ACM MM)
+- Pattern Recognition (PR)
