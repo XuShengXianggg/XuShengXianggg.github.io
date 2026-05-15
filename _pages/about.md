@@ -68,6 +68,13 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 
 [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
 Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
+
+[**[Project]**](https://github.com/1e12Leon/RemoteAgent) ![Github stars](https://img.shields.io/github/stars/1e12Leon/RemoteAgent.svg)
+[[遥感与深度学习]](https://mp.weixin.qq.com/s/0u47McXGmi7sBGGBFzZY_w)
+[[地球洞察]](https://mp.weixin.qq.com/s/i6GUc0KnfND_GJoj2LviHA)
+
+- We propose RemoteAgent, an agentic system that uses RL-alignment to resolve intrinsic tasks while routing dense predictions via specialized tools.
+
 </div>
 </div>
 
