@@ -43,6 +43,9 @@ Previously, I received my Bachelor's degree in Software Engineering from the Col
 **Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
 [**[Project]**](https://github.com/DEFENSE-SEU/RobustFlow) ![Github stars](https://img.shields.io/github/stars/DEFENSE-SEU/RobustFlow.svg)
+
+- We propose RobustFlow, a training framework for robust agentic workflow generation, which improves the model's semantic invariance to diverse instructions through preference optimization.
+
 </div>
 </div>
 
