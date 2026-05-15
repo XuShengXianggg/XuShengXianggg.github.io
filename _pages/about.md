@@ -136,9 +136,9 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
 # 🎖 Honors and Awards
 - *2025.10* <a href='https://cdn.acwing.com/media/article/image/2026/05/14/181746_1ccc90f04f-tzb.png'>Grand Prize</a>, "Challenge Cup" Chinese College Student Entrepreneurship Plan Competition | “挑战杯”全国大学生课外学术科技作品竞赛揭榜挂帅擂台赛特等奖
-- *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS
-- *2025.06* <a href='https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png'>Outstanding Undergraduate Thesis of Hohai University</a>
-- *2025.06* Silver Medal, Jiangsu Collegiate Programming Contest
+- *2025.07* <a href='https://cdn.acwing.com/media/article/image/2025/09/06/543035_591c571a8a-JSIACS.png'>First Prize</a>, Undergraduate Thesis Encouragement Program of JSIACS | 江苏省仪器仪表学会本科毕设激励计划一等奖
+- *2025.06* <a href='https://cdn.acwing.com/media/article/image/2025/08/01/543035_878928ee6e-hhu_bestThesis.png'>Outstanding Undergraduate Thesis of Hohai University</a> | 河海大学本科优秀毕业论文
+- *2025.06* Silver Medal, Jiangsu Collegiate Programming Contest | 江苏省大学生程序设计竞赛银奖
 - *2024.06* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_fbe047dbc3-haiyun.png'>Top 100 Outstanding Students of Hohai University</a>
 - *2024.04* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_c0f895e6c3-mcm.png'>Finalist Award</a>, Mathematical Contest in Modeling (MCM/ICM)
 - *2024.01* <a href='https://cdn.acwing.com/media/article/image/2024/12/26/181746_71b95cf3c3-ec.png'>Bronze Medal</a>, ICPC Asia-East Continent Final Contest (EC-Final)
