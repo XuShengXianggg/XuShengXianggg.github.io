@@ -25,7 +25,7 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 - *2021.09-2025.06*, Bachelor, Hohai University, Nanjing.
 
 # 💻 Internships
-- *2026.06-2026.08*, Visiting Student, The Hong Kong University of Science and Technology (Guangzhou).
+
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI2026
@@ -57,7 +57,7 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 </div>
 
 
-- `arXiv 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
+- `KDD 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
 - `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
 
