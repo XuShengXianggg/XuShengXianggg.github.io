@@ -152,7 +152,7 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
 # 💬 Academic Service
 
-Reviewer:
+<!-- Reviewer: -->
 
-- ACM International Conference on Multimedia (ACM MM)
-- Pattern Recognition (PR)
+- Conference Reviewer: ACM MultiMedia 2026
+- Journal Reviewer: Pattern Recognition (PR)
