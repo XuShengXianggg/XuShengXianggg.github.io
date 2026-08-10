@@ -21,7 +21,7 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 
 
 # 📖 Education
-- *2026.08-2026.12*, Incoming Visiting Research Student, Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.
+- *2026.08-2026.12*, Visiting Research Student, Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.
 - *2025.09-2028.06*, Master, School of Computer Science and Engineering, Southeast University, Nanjing, China.
 - *2021.09-2025.06*, Bachelor, College of Computer Science and Software Engineering, Hohai University, Nanjing, China.
 
@@ -60,9 +60,11 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 
 - `KDD 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
-- `PrePrint 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
+- `COLM 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
 
 - `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di
+
+- `arXiv 2026` [DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](https://https://arxiv.org/abs/2607.26722), Hanghui Guo, Weijie Shi, Zhangze Chen, **Shengxiang Xu**, Yishu Wang, Yimei Zhang, Wangze Ni, Jia Zhu, Shimin Di
 
 ---
 
