@@ -29,6 +29,8 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by TGRS
+- 
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI2026
 
 # 📝 Publications 
@@ -70,7 +72,7 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 
 ## Remote Sensing Vision-Language Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/remoteagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/remoteagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
