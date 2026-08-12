@@ -30,7 +30,6 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by TGRS
-- 
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI2026
 
 # 📝 Publications 
