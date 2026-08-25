@@ -21,11 +21,11 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 
 
 # 📖 Education
-- *2026.08-2026.12*, Visiting Research Student, Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.
 - *2025.09-2028.06*, Master, School of Computer Science and Engineering, Southeast University, Nanjing, China.
 - *2021.09-2025.06*, Bachelor, College of Computer Science and Software Engineering, Hohai University, Nanjing, China.
 
 # 💻 Internships
+- *2026.08-2026.12*, Visiting Research Student, Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.
 
 
 # 🔥 News
