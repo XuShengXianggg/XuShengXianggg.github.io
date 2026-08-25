@@ -83,8 +83,8 @@ Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongj
 
 - We propose RemoteAgent, an agentic system that uses RL-alignment to resolve intrinsic tasks while routing dense predictions via specialized tools.
 
-<!-- </div> -->
-<!-- </div> -->
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/remotezero.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
