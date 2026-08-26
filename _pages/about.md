@@ -58,13 +58,13 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 </div>
 
 
-<!-- - `KDD 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li -->
+- `KDD 2026` [PeroMAS: A Multi-agent System of Perovskite Material Discovery](https://arxiv.org/abs/2602.13312), Yishu Wang, Wei Liu, Yifan Li, **Shengxiang Xu**, Xujie Yuan, Ran Li, Yuyu Luo, Jia Zhu, Shimin Di, Min-Ling Zhang, Guixiang Li
 
-<!-- - `COLM 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di -->
+- `COLM 2026` [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://www.researchgate.net/profile/Zeyu-Ren-9/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills/links/69ea1484db00ec75d02ce04a/FlowEvo-Self-Evolving-Agents-through-the-Co-Evolution-of-Workflows-and-Executable-Skills.pdf), Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, **Shengxiang Xu**, Hanmo Liu, Shaowu Pan, Shimin Di
 
-<!-- - `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di -->
+- `arXiv 2026` [Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430), Yiwen Pang, Bo Zhou, Changjin Li, Xuanhao Wang, **Shengxiang Xu**, Deng-Bao Wang, Min-Ling Zhang, Shimin Di
 
-<!-- - `arXiv 2026` [DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](https://https://arxiv.org/abs/2607.26722), Hanghui Guo, Weijie Shi, Zhangze Chen, **Shengxiang Xu**, Yishu Wang, Yimei Zhang, Wangze Ni, Jia Zhu, Shimin Di -->
+- `arXiv 2026` [DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](https://https://arxiv.org/abs/2607.26722), Hanghui Guo, Weijie Shi, Zhangze Chen, **Shengxiang Xu**, Yishu Wang, Yimei Zhang, Wangze Ni, Jia Zhu, Shimin Di
 
 ---
 
@@ -86,14 +86,14 @@ Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongj
 </div>
 
 
-<!-- - `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng -->
+- `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng
 
 
-<!-- - `arXiv 2026` [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243), Rui Min, Liang Yao, Shiyu Miao, **Shengxiang Xu**, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu -->
+- `arXiv 2026` [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243), Rui Min, Liang Yao, Shiyu Miao, **Shengxiang Xu**, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu
 
-<!-- - `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng -->
+- `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
 
-<!-- - `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou -->
+- `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
 
 ---
 
@@ -127,7 +127,7 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 
 ## Others
 
-<!-- - `PAA` [Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification](https://link.springer.com/article/10.1007/s10044-025-01520-y), Wei Xu, Xiaocong Zhou, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Feifan Li, Wenwen Cai, Jun Zhou -->
+- `PAA` [Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification](https://link.springer.com/article/10.1007/s10044-025-01520-y), Wei Xu, Xiaocong Zhou, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Feifan Li, Wenwen Cai, Jun Zhou
 
 - `CCBR 2024` [Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis](https://link.springer.com/chapter/10.1007/978-981-96-1071-6_25), **Shengxiang Xu**, Liang Yao, Chenyu Huang, Guoxin Jiang, Fan Liu
 
