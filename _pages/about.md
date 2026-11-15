@@ -29,6 +29,8 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper is accepted by KDD2027
+
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by TGRS
 
 # 📝 Publications 
@@ -39,7 +41,7 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 <div class='paper-box-text' markdown="1">
 
 [Robustflow: Towards robust agentic workflow generation](https://arxiv.org/abs/2509.21834) \\
-**Shengxiang Xu**, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+**Shengxiang Xu\***, Jiayi Zhang\*, Shimin Di, Yuyu Luo, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
 
 [**[Project]**](https://github.com/DEFENSE-SEU/RobustFlow) ![Github stars](https://img.shields.io/github/stars/DEFENSE-SEU/RobustFlow.svg)
 
@@ -49,11 +51,11 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/capflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2027</div><img src='images/capflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to compose for cross-domain agentic workflow generation](https://arxiv.org/abs/2602.11114) \\
-Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
+Jialiang Wang\*, **Shengxiang Xu\***, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
 </div>
 </div>
 
@@ -74,7 +76,7 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 <div class='paper-box-text' markdown="1">
 
 [Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
-Liang Yao, **Shengxiang Xu**, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
+Liang Yao\*, **Shengxiang Xu\***, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
 
 [**[Project]**](https://github.com/1e12Leon/RemoteAgent) ![Github stars](https://img.shields.io/github/stars/1e12Leon/RemoteAgent.svg)
 [[遥感与深度学习]](https://mp.weixin.qq.com/s/0u47McXGmi7sBGGBFzZY_w)
