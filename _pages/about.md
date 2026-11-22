@@ -55,7 +55,7 @@ I am currently a Master's student at the <a href='https://sdiaa.tech/'>DEFENSE G
 <div class='paper-box-text' markdown="1">
 
 [Learning to compose for cross-domain agentic workflow generation](https://arxiv.org/abs/2602.11114) \\
-Jialiang Wang\*, **Shengxiang Xu\***, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
+Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen
 </div>
 </div>
 
