@@ -87,6 +87,17 @@ Liang Yao\*, **Shengxiang Xu\***, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/remoteevolver.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RemoteEvolver: Expanding Earth Observation Capabilities through Agent Harness Evolution](https://arxiv.org/abs/2611.27110) \\
+**Shengxiang Xu\***, Liang Yao\*, Shuyi Chen, Yishu Wang, Shimin Di, Fan Liu, Bishun Yao, Hanghui Guo, Xinyu Liu, Chengye Liang, Yuyu Luo, Min-Ling Zhang
+
+- We propose RemoteEvolver, a self-evolving agent harness that acquires specialized tools on demand while distilling successful task experiences into reusable skills for continual capability expansion.
+
+</div>
+</div>
+
 
 - `arXiv 2026` [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451), Liang Yao, Fan Liu, **Shengxiang Xu**, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng
 
