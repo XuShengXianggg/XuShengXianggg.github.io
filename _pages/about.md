@@ -106,9 +106,9 @@ Liang Yao\*, **Shengxiang Xu\***, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Y
 
 - `arXiv 2026` [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243), Rui Min, Liang Yao, Shiyu Miao, **Shengxiang Xu**, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu
 
-- `AAAI 2026` [Remotereasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
+- `AAAI 2026` [RemoteReasoner: Towards unifying geospatial reasoning workflow](https://ojs.aaai.org/index.php/AAAI/article/view/38175), Liang Yao, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, **Shengxiang Xu**, Shimin Di, Pai Peng
 
-- `ICASSP 2025` [Remotetrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
+- `ICASSP 2025` [RemoteTrimmer: Adaptive structural pruning for remote sensing image classification](https://ieeexplore.ieee.org/abstract/document/10890085/), Guangwenjie Zou, Liang Yao, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, **Shengxiang Xu**, Jun Zhou
 
 ---
 
