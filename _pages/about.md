@@ -136,6 +136,8 @@ Jianyu Jiang, Zequan Wang, Liang Yao, **Shengxiang Xu**, Fan Liu
 </div>
 </div>
 
+- `TGRS` [Towards Controllable Virtual UAV Benchmark Generation](), Liang Yao, Fan Liu, **Shengxiang Xu**, Bin Gu, Chuanyi Zhang, Jianyu Jiang, Qiaolin Ye, Liyong Fu, Shimin Di, Jun Zhou
+
 ---
 
 ## Others
