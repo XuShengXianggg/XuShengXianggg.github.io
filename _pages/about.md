@@ -77,7 +77,7 @@ Jialiang Wang, **Shengxiang Xu**, Hanmo Liu, Jiachuan Wang, Yuyu Luo, Shimin Di,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/remoteagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Remoteagent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
+[RemoteAgent: Bridging vague human intents and earth observation with rl-based agentic mllms](https://arxiv.org/abs/2604.07765) \\
 Liang Yao\*, **Shengxiang Xu\***, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
 
 [**[Project]**](https://github.com/1e12Leon/RemoteAgent) ![Github stars](https://img.shields.io/github/stars/1e12Leon/RemoteAgent.svg)
